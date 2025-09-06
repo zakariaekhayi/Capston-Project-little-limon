@@ -12,7 +12,7 @@ Below are screenshots highlighting the reservation feature and the overall desig
 <img width="1893" height="932" alt="image" src="https://github.com/user-attachments/assets/7b017bc1-bc0e-4277-831a-01b9b22095a6" />
 <img width="1889" height="934" alt="image" src="https://github.com/user-attachments/assets/fe036afd-e9a6-4e76-9e73-7f8391d0d2b7" />
 <img width="1915" height="936" alt="image" src="https://github.com/user-attachments/assets/e35c6b9c-6494-4edf-b0f8-cf22024efd0a" />
-<img width="1901" height="928" alt="image" src="https://github.com/user-attachments/assets/186d8d63-9ebf-4af1-ad6c-4f1f02712bf5" />
+
 <img width="1898" height="926" alt="image" src="https://github.com/user-attachments/assets/5dc373b8-296b-4501-a513-5fec2ef3051e" />
 
 
